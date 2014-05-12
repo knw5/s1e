@@ -1,0 +1,106 @@
+<html>
+	<head>
+		<title>Source 1 Environment.Co|Your No.1 Source for clean environment</title>
+			<link rel="stylesheet" href="style.css" type="text/css" />
+	</head>
+	
+	<body class="body">
+		<header>
+			<div class="mainHeader">
+				<img src="s1elogo.png" alt="logo" id="logo">
+				<a href="http://www.bbb.org/"><img src="bbblogo.png" id="bbb"></a>
+                <a href="http://www.bbb.org/"><img src="aplus.png" id="aplus"></a>
+				<div id="company">
+					<h1 id="noc">Source One Environmental</h1>
+				</div>
+				<p id="words">
+                Nurturing,Caring And Cleaning Our #1 Source Of Life<br>
+                <b>"THE ENVIRONMENT"</b>
+                </p>
+				<div class="nav">
+					<nav><ul><b>
+						<li><a href="#air">AIR</a></li>
+						<li><a href="#water">WATER</a></li>
+						<li><a href="#soil">SOIL</a></li>
+						<li><a href="#about">ABOUT US</a></li>
+						<li><a href="#contact">CONTACT US</a></li>
+					</ul></nav></b>
+				</div>
+			</div>	
+		</header>
+		<div id="introduction">
+			<div id="intro" align="center">
+				<h1 align="Center"><b>LET US INTRODUCE YOU TO OUR SERVICES</h1></b>
+					<div id="team">
+						<h4>We are a dedicated team of environmental professionals using the<br>
+						latest techniques and technology to monitor, test and solve<br>
+						air,water and soil issues in all regions of the world. </h4>
+						<img src="airsoilwater.jpg" id="airsoilwater">
+					</div>
+			</div>
+		</div>	
+				<div id="air">
+					<h1 id="air_intro"><b>Air Quality Monitoring</b></h1>
+						<div id="air_para">
+							<p><b>Outdoor and indoor air quality monitoring utilizing highly sensitive devices that can<br>
+							   detect pollutants in the air such as molds, allergens, and emissions. We well evaluate<br>
+							   test and put a plan of action in place to reduce or eliminate any potential hazards in<br>
+							   the air and creating a peace of mind for your family and community.</b></p>
+							<div>
+								<img src="aircloudbot.jpg" id="aircloudbot">
+								<img src="aircloudbotm.jpg" id="aircloudbotm">
+								<img src="aircloudbotr.jpg" id="aircloudbotr">
+							</div>	
+						</div>
+				</div>		
+			</div>
+			<div>
+				<div id="water">
+					<h1 id="water_intro"><b>Water Quality Monitoring</h1><b/>
+						<div id="water_para">
+							<p><b>Water is an essential part of survival for many of earth's life creatures. We will eveluate,<br>
+							   all water contents from ground to ocean. We will test for bacteria concentration, mineral, and<br>
+							   calcium levels using only the most advanced techniques in our controlled laboratory environment. </b></p>
+							<div>
+								<img src="waterbot.jpg" id="waterbot">
+								<img src="waterbotm.jpg" id="waterbotm">
+								<img src="waterbotr.jpg" id="waterbotr">
+							</div>	
+						</div>
+				</div>
+			</div>	
+			<div>
+				<div id="soil">
+					<h1 id="soil_intro"><b>Soil Quality Monitoring</b></h1>
+						<div id="soil_para">
+							<p><b>Soil is an essential tool for survival used by humans, animals, and plants. With our techniques<br>
+								  we can set procedures to monitor soil quality for chemical and toxicity. We can test the to see<br>
+								  if the soil is mineral rich that promote growth or mineral deficient which restrict growth.</b></p>
+							<div>
+								<img src="soilbot.jpg" id="soilbot">
+								<img src="soilbotm.jpg" id="soilbotm">
+								<img src="soilbotr.jpg" id="soilbotr">
+							</div>		
+						</div>
+				</div>
+			</div>	
+			<div>
+				<div id="about">
+					<h1 id="about_intro"><b>About US</b></h1>
+						<div id="about_para">
+							<p><b>Established since 2007 with the task of going internationally to monitor the air, water, and <br>
+							      and soil of A South American country. The task involved extensive studies of the envioronment<br>
+								  and a plan of action associated with creating a stable and clean quality of life for the locals<br>
+								  With some of the most noted scientists and advanced equipment available we were able to decontaminate<br>
+								  the very polluted and toxic sites. We designed standard operating procedures to maintain and monitor<br>
+								  the site moving forward.</b></p>
+							<div>
+								<img src="aboutbot.jpg" id="aboutbot">
+								<img src="aboutbotm.jpg" id="aboutbotm">
+								<img src="aboutbotr.jpg" id="aboutbotr">
+							</div>		
+						</div>
+				</div>
+			</div>	
+	</body>
+</html>
